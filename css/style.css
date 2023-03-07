@@ -1,0 +1,32 @@
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: dotted none none;
+    width: 10%;
+    border-color: grey;
+    border-width: 5px;
+}
+form{
+    display: block;
+    color: black;
+    margin: 0em;
+}
+h1{
+    display: block;
+    font-size: 2em;
+   margin:0.67em;
+    font-weight: bold;
+    color: #66bfbf;
+}
+h3{
+
+    color:#635985;
+}
+table{
+    border-spacing: 0.5em;
+}
+.h:hover{
+    color:#757fef;
+}
